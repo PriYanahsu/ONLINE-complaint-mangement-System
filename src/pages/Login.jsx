@@ -53,17 +53,17 @@ const Login = () => {
         }, [])
         if (role === "admin" && username === "ADMIN" && password === "123") {
             setTimeout(() => {
-                navigate("/home");
-            }, 3000);
+                navigate("/admin-home");
+            }, 1000);
         } else if(role === "user" && username === "USER" && password === "123") {
             setTimeout(() => {
                 navigate("/home");
-            }, 3000);
+            }, 1000);
         }else{
             setTimeout(() => {
                 navigate("/");
                 setError(`${role} not found `);
-            }, 3000);
+            }, 1000);
         }
     };
     
