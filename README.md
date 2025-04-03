@@ -89,29 +89,22 @@ The backend will be available at **http://localhost:8080**
 cd ../frontend
 ```
 
-#### **Install Dependencies**  
-```sh
-npm install
-```
-
-#### **Run the React Application**  
-```sh
-npm start
-```
-The frontend will be available at **http://localhost:3000**  
-
----
-
 ## **Screenshots**  
 
-### **1. Complaint Submission Page**  
-![Screenshot](#) *(Attach Image Here)*  
+### **1. Complaint User Login**  
+![Screenshot (436)](https://github.com/user-attachments/assets/207dca9f-4afd-4916-8975-98f97e6d0d50)
 
-### **2. Complaint List with Status Tracking**  
-![Screenshot](#) *(Attach Image Here)*  
+### **2. Complaint User Complaint Form**  
+![Screenshot (437)](https://github.com/user-attachments/assets/9b0a50c7-2363-44a0-bcd9-2aeef6b8f1d6)
 
-### **3. Admin Dashboard for Managing Complaints**  
-![Screenshot](#) *(Attach Image Here)*  
+### **3. Live Camera Control Form**  
+![Screenshot (438)](https://github.com/user-attachments/assets/9cb4f7bb-0801-4989-b02f-9a0319b278b9)
+
+### **4.Admin Login Page**  
+![Screenshot (439)](https://github.com/user-attachments/assets/ae92f3ea-e682-44ca-a7fa-cb96059c721c)
+
+### **5.Updated Complaint Data On UserDashBoard**  
+![Screenshot (440)](https://github.com/user-attachments/assets/562f6ef2-8918-4e6c-abc6-83359205a8e0)
 
 ---
 
