@@ -55,8 +55,6 @@ git clone <repository-url>
 cd Online-Complaint-Management-System
 ```
 
----
-
 ### **2. Backend Setup (Spring Boot)**  
 
 #### **Install Dependencies & Build**  
@@ -73,14 +71,6 @@ spring.datasource.username=root
 spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
 ```
-
-#### **Run the Spring Boot Application**  
-```sh
-mvn spring-boot:run
-```
-The backend will be available at **http://localhost:8080**  
-
----
 
 ### **3. Frontend Setup (React.js)**  
 
