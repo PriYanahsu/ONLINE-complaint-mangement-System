@@ -114,6 +114,6 @@ cd ../frontend
 ---
 
 ## **Contributors**  
-👤 **Priyanshu** – *(Your Name & GitHub Profile Link)*  
+👤 **Priyanshu** – 
 
 ---
